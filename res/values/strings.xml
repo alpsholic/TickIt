@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="events">Events</string>
+    <string name="app_name">EventManager</string>
+    <string name="no_events">No events added yet, create one from menu Add Event option!</string>
+    <string name="menu_insert_event">Add Event</string>
+    <string name="menu_delete_event">Delete Event</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="event_code">Code</string>
+    <string name="event_name">Name</string><string name="event_venue">Venue</string><string name="event_confirm">Confirm</string>
+    <string name="no_tickets">No tickets created yet!</string><string name="menu_delete_ticket">Delete Ticket</string>
+    <string name="ticket_generate">Generate Tickets</string>
+    <string name="tickets_quantity">No. of tickets to generate:</string>
+    <string name="decode">Decode</string>
+    <string name="send_email">Send Email</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/eventLabel"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:text="Event: "
+    android:textSize="16sp"/>
+  
+<TextView android:id="@+id/eventText"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:textSize="16sp"/>
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/venueLabel"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:text=" , Venue: " 
+    android:textSize="16sp"/>
+
+<TextView android:id="@+id/venueText"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:textSize="16sp"/>
+
+</LinearLayout>
+    
